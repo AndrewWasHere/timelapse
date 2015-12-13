@@ -5,6 +5,8 @@ A Python script to take a series of pictures.
 Timelapse is a simple script that takes a series of pictures with a 
 USB-connected, gphoto2-compatible camera.
 
+Photos are stored on camera.
+
 Command-line Arguments
 ----------------------
     -d, --delay: Time, in seconds, to wait between gphoto2 calls. Note that this
